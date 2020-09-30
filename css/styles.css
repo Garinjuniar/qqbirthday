@@ -25,9 +25,7 @@ h1{
 }
 .us{
   width: 60%;
-  position: relative;
-  left: 6rem;
-  border-radius: 10;
+  margin: 0 auto 0;
 }
 .navbar-dark .navbar-brand {
   font-size: 2.5rem;
